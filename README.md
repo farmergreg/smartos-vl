@@ -20,12 +20,12 @@ When run with a parameter it logs into the virtual machine that is the closest m
 ````
 greg@home$ vl samba
 [Connected to zone 'aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee' pts/3]
-root@samba:#
+root@prod-samba:#
 ````
 ````
 greg@home$ vl nginx-01
 [Connected to zone 'aaaaaaaa-bbbb-cccc-dddd-ffffffffffff' pts/3]
-root@nginx-01:#
+root@prod-nginx-01:#
 ````
 ````
 greg@home$ vl nginx
