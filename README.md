@@ -1,9 +1,8 @@
 # vl
-vl is short for "virtual machine login"
-
-## Introduction
-This script is designed to be used from a machine that has ssh access to your SmartOS machine.
-For best results, make sure that you've configured key based login to the SmartOS machine.
+vl is short for "virtual machine login" It enables management of virtual
+machines running on a remote SmartOS node. To use this command type vl followed
+by enough text to uniquely identify the virtual machine that you want to
+login to.
 
 ## Examples
 
